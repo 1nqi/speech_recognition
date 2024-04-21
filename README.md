@@ -1,5 +1,5 @@
 ﻿# speech_recognition
-Voice recognition followed by browser search
+Voice recognition followed by browser search.
         
  usage:
 
