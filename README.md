@@ -1,14 +1,17 @@
 ﻿# speech_recognition
+ 
 Voice recognition followed by browser search.
         
- usage:
+## Usage:
+```bash
+pip3 install SpeechRecognition
 
- pip3 install SpeechRecognition.
-
- pip3 install pyaudio
+pip3 install pyaudio
 
 python main.py
+```
 
 And tell something to search.
 
 If you want to change search engine then replace link e.g. to "https://www.google.com/search?q={searching}".
+
