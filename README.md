@@ -13,5 +13,5 @@ python main.py
 
 And tell something to search.
 
-If you want to change search engine then replace link e.g. to "https://www.google.com/search?q={searching}".
+If you want to change search engine then replace link e.g. to "https://www.google.com/search?q={searching}"
 
